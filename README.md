@@ -1,6 +1,6 @@
-# flutter_project_1
+# flutter_Chat_Screen
 
-A new Flutter project.
+A Flutter chat screen project.
 
 ## Getting Started
 
